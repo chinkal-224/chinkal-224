@@ -1,4 +1,4 @@
-Hi I'm Chinkal✨
+##Hi I'm Chinkal✨
 I'm a computer science student at JIET<br/>
 passionate about coding, web development, and building real-world projects. I enjoy exploring new technologies, contributing to open-source, and learning by doing!🌠<br/>
 LinkedIn :- https://www.linkedin.com/in/chinkal-malviya/
